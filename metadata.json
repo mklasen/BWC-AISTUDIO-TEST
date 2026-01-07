@@ -1,0 +1,8 @@
+{
+  "name": "BWC - Chat & Events",
+  "description": "A high-performance chat platform with integrated event planning and management features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
